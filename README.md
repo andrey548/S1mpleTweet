@@ -39,7 +39,11 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Needed to install a different version of Android SDK that is compaitable with the template app.
+Had no display despite no build errors. Forgot to notify that the data changed from the adapter.
+In an effort to match twitter branding I found the color code of their brand and assigned it to ActionBar color
+had to then figure out how to set the tone of the status bar according to Android design guidlines.
+Asked for help in finding how to make the avatars rounded by using Glide transformations.
 
 ## Open-source libraries used
 
